@@ -1,0 +1,270 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+    background-color: black;
+}
+
+
+.side{
+margin-top: 31px; 
+width: 392px;
+height: 653px;
+/* UI Properties */
+background-color: #1C1C22; 
+border-radius: 12px;
+opacity: 1;
+}
+.title{
+top: 64px;
+left: 290px;
+width: 204px;
+height: 21px;
+color: white;
+
+opacity: 1;
+}
+.Brand{
+
+height: 16px;
+color: white;
+padding-left: 32px;
+padding-top: 16px;
+/* UI Properties */
+
+opacity: 1;
+
+}
+.Drag-Area{
+   margin-top:35px;
+    width:156px;
+    height: 96px;
+    background-color:#000000;
+    box-sizing: border-box;
+ /* UI Properties */
+    
+    border: 2px rgba(142,142,142,0.406);
+    border-style: dashed;
+    border-radius: 7px;
+    text-align:center;
+    margin-left: 34px
+   
+  }
+.ork{
+ 
+font-size:12px;
+/* UI Properties */
+color: white;
+opacity: 1;
+margin-top: 4px;
+margin-left:15px;
+text-align:center;
+
+
+
+padding-top: 10px;
+
+}
+.val{
+    size: 12px;
+    font-size:14px;
+    color:white;
+    margin-top: 12px;
+    margin-left:62px;
+
+
+}
+.svg{
+  font-size:12px;
+  color:#8D8D8D;
+  margin-top: 10px;
+  margin-left:75px;
+
+}
+.box{
+  width: 376px;
+height: 48px;
+/* UI Properties */
+background-color: #26262C; 
+border-radius: 8px;
+opacity: 1;
+margin-top: 32px;
+margin-left:8px;
+display:flex;
+
+
+}
+
+.but{
+  font-size:14px ;
+  color:white ;
+  border-radius:5px;
+  width: 182px;
+height: 40px;
+margin-top: 4px;
+margin-left:4px;
+background-color: #000000;
+border-style: none;
+
+
+
+}
+.but1{
+  font-size:14px ;
+  color:white;
+  border-radius:5px;
+  width: 182px;
+height: 40px;
+margin-top: 4px;
+margin-left:4px;
+background-color: #26262C;
+border-style: none;
+
+
+
+}
+.boxy{
+  width: 376px;
+height: 112px;
+/* UI Properties */
+background-color:#000000; 
+border-radius: 8px;
+
+margin-top: 8px;
+margin-left:8px;
+display:flex;
+
+
+
+
+}
+.box2{
+ size:14px; ;
+color:white;
+margin-top: 2px;
+margin-left:24px;
+height: 100%;
+width: 50%;
+
+}
+
+ .input{
+  margin-top: 48px;
+margin-left:77px;
+width: 100px;
+height: 40px;
+/* UI Properties */
+border: 1px solid #4D4D4D;
+border-radius: 4px;
+opacity: 1;
+ }
+ .but2{
+  font-size:14px ;
+  color:white;
+  border-radius:5px;
+  width: 40px;
+height: 40px;
+
+
+background-color: #26262C;
+border-style: none;
+
+
+ }
+.input2{
+  font-size:14px ;
+  color:white;
+  border-radius:5px;
+  width: 100px;
+height: 40px;
+margin-left: 10px;
+
+background-color:transparent;
+border: 1px solid #4D4D4D;
+border-color: #4D4D4D;
+border-width: 1px;
+
+}
+.lev{
+  display:flex;
+  margin-left: 2px;
+
+}
+.text{
+  width: 314px;
+height: 42px;
+  font-size: 14px;
+  color:#8D8D8D;
+  margin-left: 32px;
+  margin-top: 20px;
+}
+
+.but3{
+  font-size:14px ;
+  color:white;
+  width: 212px;
+height: 40px;
+/* UI Properties */
+background: #2A2B2C 0% 0% no-repeat padding-box;
+border-radius: 4px;
+opacity: 1;
+margin-left: 32px;
+margin-top: 20px;
+
+background-color: #2A2B2C;
+border-style: none;
+
+
+ }
+ .box1{
+  
+display:flex;
+
+
+}
+.but4{
+  font-size:14px ;
+  color:white;
+  border-radius:5px;
+  width: 252px;
+  height: 40px;
+
+
+background-color: #26262C;
+
+margin-top:31px;
+margin-left:12px;
+background-image: transparent;
+opacity: 1;
+border-width:1px;
+border-color: red;
+
+
+ }
+ .but5{
+  font-size:14px ;
+  color:white;
+  border-radius:5px;
+  width: 252px;
+  height: 40px;
+  margin-right:12px;
+  background-color: orange;
+
+
+background-color: red;
+border-style: none;
+margin-top:31px;
+margin-left:12px;
+
+
+ }
+ .icon{
+  margin-top: 10px;
+  margin-left:15px;
+
+}
+.blue{
+  background-color:hsl(206, 100%, 50%)
+}
+.white{
+  background-color:white
+}
+ 
